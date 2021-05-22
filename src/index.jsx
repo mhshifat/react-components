@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import ToggleSwitch from "./components/ToggleSwitch/ToggleSwitch";
 import "./index.css";
+import Routes from "./routes";
 
 ReactDOM.render(
   <React.StrictMode>
-    <ToggleSwitch />
+    <Routes />
   </React.StrictMode>,
   document.getElementById("root")
 );
