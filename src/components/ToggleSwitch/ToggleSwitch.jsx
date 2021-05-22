@@ -1,3 +1,3 @@
 export default function ToggleSwitch() {
-  return <p>ToggleSwitch</p>
+  return <p>ToggleSwitch</p>;
 }
